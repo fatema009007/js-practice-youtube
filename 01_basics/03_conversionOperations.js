@@ -22,3 +22,6 @@ let stringNumber = String(someNumber);
 
 console.log(stringNumber);
 console.log(typeof stringNumber)
+console.log("1"+"2");
+
+console.log(+3);
